@@ -1,1 +1,1 @@
-# Eddie-Van-Halen-s-Kramer-Frankenstrat-Guitar-
+# Eddie Van Halen's Kramer Frankenstrat Guitar 
