@@ -6,6 +6,10 @@
 This is a guide and build log on how I built my own version of Eddie's Kramer Frankenstrat! This was my first guitar that I've built from scratch and a lot was learned in the build process. The final product ended up being such a killer axe with tons of playability! Growing up being an avid listener of Van Halen and being a big reason that I picked up guitar, I knew that if there was any guitar that I would try to build it would be Eddie Van Halen's Frankenstrat. My inspiration for it all was seeing Eddie’s Kramer 5150 in the [Van Halen Live Without a Net Eruption video]( https://youtu.be/mIpHZo7BsT8?si=noNRfv9UKynxgA3a). That guitar looked so unique and has a huge sound. Since I loved how the original Frankenstrat looked I decided to put the two together and create something different than all of the other builds I see online. So after long months of research and planning for the best parts, I finally have a finished product that plays better than I could have ever imagined!
 
 # History
+The frankenstrat created by Eddie Van Halen was a product of Eddie's attempt to combine the sound of a Gibson Les Paul with the tremolo ability of a stratocaster. Most of the parts came from various guitars like his ES-335 and discounted parts that various guitar shops wanted to throw out for various reasons. As a result, Eddie collected these parts to create something never seen before.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2afc8ad-2b38-416b-a9a2-249ebb600e23" width="50%" height="50%">
 
 
 # Full Build Timelaspe
@@ -77,3 +81,10 @@ The original frankenstrat had a 3 way pickup selector in the middle position on 
 
 - [3 Way Guitar Pickup Selector Switch](https://www.seymourduncan.com/single-product/custom-custom)
 - [3 Way Switch Pickup Selector Toggle For Les Paul](https://www.ebay.com/itm/365674678904?_skw=Black+3+Way+Switch+Pickup+Selector+Toggle+For+Les+Paul&itmmeta=01KE3Y78P066629BQ59TRP6RKM&hash=item5523e8ca78:g:qYAAAOSwPetoT7Tr&itmprp=enc%3AAQAKAAABEFkggFvd1GGDu0w3yXCmi1f1s139ZYVpSXhXekPn8HR0rfDw0PniPXUPUrR5c3j5C6SV0HWs%2FGvXu3s%2FkJB%2BQTVG1jiXN77b%2Fq6QZWFD9cDRPdBotgGAupovQCVqDR6aRRSEJwrdDVW2%2FOCVj9Uhj1ZAAZwsurwzz%2F1LldUwhefnnHQFSLOn%2FxumzmjyQFN7xQWCG4lGkMarUHBy6HPqNvV1SALJYNv2Rn2aipVPlSPo3qTz7BK12L%2FJSfibCqHJ4vQEPxeejw4eug9%2FjT0ENV%2FsI0NVJ%2FvgPQcntAwbMDsjjUwjftEu8Ut%2FSSeinlVTiRJb%2FGHHLU2FpP2%2FFPXLOuQk9UMFF1X2qpNHj7MNkwkI%7Ctkp%3ABFBMloud_vBm)
+
+# Build Process
+## Paint
+### Body
+### Neck
+## Routing
+## Electonics 
