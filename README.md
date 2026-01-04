@@ -67,9 +67,13 @@ The original frankenstrat and Kramer had a Floyd Rose Original tremolo. While th
   
 ## Electronics
 ### Pickups
-For the humbucker pickup, I ended up going with the Seymour-Duncan SH-11 Custom Custom as it was the same model that was inside Eddie's 80's Kramer guitar. For the red phenolic pickup in the neck, the original frankenstrat did not have it wired properly so it never worked. In my case, I bought a working pickup that I could wire to a switch for more tonal possibilities.
+For the humbucker pickup, I ended up going with the Seymour-Duncan SH-11 Custom Custom as it was the same model that was inside Eddie's 80's Kramer guitar. For the red phenolic pickup in the neck, the original frankenstrat did not have it wired properly so it never worked. In my case, I bought a working pickup that I could wire to a toggle switch for more tonal possibilities.
 
 - [Seymour-Duncan SH-11 Custom Custom](https://www.seymourduncan.com/single-product/custom-custom)
 - [EVH Frankenstein / Frankenstrat Style Phenolic Pickup](https://www.ebay.com/itm/264940967649?_skw=phenolic+pickup&itmmeta=01KE3XTQBFB7PFC7F3JSZ63Q17&hash=item3dafb656e1:g:7Q0AAeSwBwZo3u3S&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1cJnnPex%2FDVE5%2BjCjPdzPrHKyOpPlEX4Cfj7VHuflWyC4a1yqqWtbtSZ9MXPqc66qAjxRyDMNTp1aYAMT1TOTDJccU0ElJKK%2FdZG3IvW4mjUGYF8aQhUNfydcn58HjdCKLrWVkBCWbQ0RsSf5swcxOGmnWP5A6pKsMGcM9sdxnK1T08XL0ECPquvfNUx%2FNCnuSxjrtTvwdcR4Joid7EftomDC5fY1VCAhtgfyZPgAQSZ5zFTQVoeVaVWKB6a5xyoYGsJstbSqjMFTY9oinRpprR%7Ctkp%3ABFBM-PXq_fBm)
   
 ### Switches
+The original frankenstrat had a 3 way pickup selector in the middle position on the guitar body, this did not acttualy serve a purpose other than cosmetic. To make use of the neck pickup, I wired in a black 3 way toggle switch used in Les Paul guitars for more tonal possibilities. 
+
+- [3 Way Guitar Pickup Selector Switch](https://www.seymourduncan.com/single-product/custom-custom)
+- [3 Way Switch Pickup Selector Toggle For Les Paul](https://www.ebay.com/itm/365674678904?_skw=Black+3+Way+Switch+Pickup+Selector+Toggle+For+Les+Paul&itmmeta=01KE3Y78P066629BQ59TRP6RKM&hash=item5523e8ca78:g:qYAAAOSwPetoT7Tr&itmprp=enc%3AAQAKAAABEFkggFvd1GGDu0w3yXCmi1f1s139ZYVpSXhXekPn8HR0rfDw0PniPXUPUrR5c3j5C6SV0HWs%2FGvXu3s%2FkJB%2BQTVG1jiXN77b%2Fq6QZWFD9cDRPdBotgGAupovQCVqDR6aRRSEJwrdDVW2%2FOCVj9Uhj1ZAAZwsurwzz%2F1LldUwhefnnHQFSLOn%2FxumzmjyQFN7xQWCG4lGkMarUHBy6HPqNvV1SALJYNv2Rn2aipVPlSPo3qTz7BK12L%2FJSfibCqHJ4vQEPxeejw4eug9%2FjT0ENV%2FsI0NVJ%2FvgPQcntAwbMDsjjUwjftEu8Ut%2FSSeinlVTiRJb%2FGHHLU2FpP2%2FFPXLOuQk9UMFF1X2qpNHj7MNkwkI%7Ctkp%3ABFBMloud_vBm)
