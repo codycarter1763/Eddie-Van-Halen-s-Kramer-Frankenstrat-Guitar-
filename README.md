@@ -84,7 +84,40 @@ The original frankenstrat had a 3 way pickup selector in the middle position on 
 
 # Build Process
 ## Paint
+I referenced various photos and color matched the colors the best I could to spray paints that I could find at the hardware store. I found that Krylon gloss white, gloss black, and gloss red pepper paint + primer was the closest match and made the guitar pop.
+
+Before painting, I sprayed a few coats of shellac on the body to prevent the porous swamp ash body from soaking up too much paint. This is a recommendation I saw online that heped out in the buffing process later since the body did not soak up a lot of paint or finish.
+
+To paint the stripes, I used various sized painters tape to do this. First, I painted a black layer, added stripes, painted the white layer, added more tape, and added the final red layer. I loosely referenced the original frankenstrat and Kramer 5150 photos for stripe patterns that I would like to try and replicate.
+
 ### Body
+Below shows some photos from the timelaspe video during the painting process. 
+
+<img width="1053" height="648" alt="image" src="https://github.com/user-attachments/assets/1331a763-40cd-433b-9e46-6e2b6c37bbbc" />
+
+<img width="1589" height="669" alt="image" src="https://github.com/user-attachments/assets/421d2043-bd4d-4c1b-bd26-8a24db3a0814" />
+
+<img width="1261" height="925" alt="image" src="https://github.com/user-attachments/assets/8d1a631f-1945-4ce4-9a1e-bde651adda25" />
+
 ### Neck
+Below shows some photos from the timelaspe video during the painting process. 
+
+<img width="929" height="287" alt="image" src="https://github.com/user-attachments/assets/e54550f0-3f73-47a8-8ce4-b6d742cdfb6d" />
+
+<img width="999" height="309" alt="image" src="https://github.com/user-attachments/assets/ee31f36d-dbb6-49cf-ae86-5c12ce35cf24" />
+
+<img width="581" height="309" alt="image" src="https://github.com/user-attachments/assets/99ce516d-8ef3-4a0d-b478-9ff14f17dea7" />
+
+## Poly Coat and Buffing
+For the finish, I decided on polyurathane spray for its durability and fast drying times. After I applied many coats of polyurathane, I wet sanded all the way to 2000 grit sandpaper and used Guitar One polish with a microfiber towel and electric buffer for the flat parts to achieve a shiny finish. The wood itself was very grainy, so the poly coat took the shaoe of the various grooves and grain, but after polishing for a while it came out just fine.
+
 ## Routing
+Just like the original frankenstrat, Eddie had channeled out the pickup holes in the body to be able to fit the humbucker and toggle switch. While there are bodies on the market with humbucker routings, I wanted to royte my own cavities with a SSS stratocaster body.
+
+<img width="776" height="391" alt="image" src="https://github.com/user-attachments/assets/13f30027-5850-4eca-8772-c20eefd78779" />
+
+<img width="839" height="350" alt="image" src="https://github.com/user-attachments/assets/d9ee5256-531a-4369-b6bc-c97aa8d4cda5" />
+
+<img width="669" height="455" alt="image" src="https://github.com/user-attachments/assets/a1df0f24-1677-482d-b105-87c341906208" />
+
 ## Electonics 
