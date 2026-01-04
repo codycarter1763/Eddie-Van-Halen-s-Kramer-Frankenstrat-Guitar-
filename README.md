@@ -112,7 +112,7 @@ Below shows some photos from the timelaspe video during the painting process.
 For the finish, I decided on polyurathane spray for its durability and fast drying times. After I applied many coats of polyurathane, I wet sanded all the way to 2000 grit sandpaper and used Guitar One polish with a microfiber towel and electric buffer for the flat parts to achieve a shiny finish. The wood itself was very grainy, so the poly coat took the shaoe of the various grooves and grain, but after polishing for a while it came out just fine.
 
 ## Routing
-Just like the original frankenstrat, Eddie had channeled out the pickup holes in the body to be able to fit the humbucker and toggle switch. While there are bodies on the market with humbucker routings, I wanted to royte my own cavities with a SSS stratocaster body.
+Just like the original frankenstrat, Eddie had channeled out the pickup holes in the body to be able to fit the humbucker and toggle switch. While there are bodies on the market with humbucker routings, I wanted to route my own cavities with a SSS stratocaster body.
 
 <img width="776" height="391" alt="image" src="https://github.com/user-attachments/assets/13f30027-5850-4eca-8772-c20eefd78779" />
 
@@ -120,4 +120,21 @@ Just like the original frankenstrat, Eddie had channeled out the pickup holes in
 
 <img width="669" height="455" alt="image" src="https://github.com/user-attachments/assets/a1df0f24-1677-482d-b105-87c341906208" />
 
+## Tremolo
+Since the guitar body did not have routing for the floyd rose tremolo and holes for the posts. I carefully measured and used a template for the scale length from nut to tremolo to align and make sure there will be no intonation or playing issues. Since I don't normally use floating tremolos because I normally switch tunings, I opted for a decked setup where the tremolo can rest against the body always. This made tuning and intonation adjustment so much easier and faster. 
+
+Thankfully, everything went smoothly!
+
+<img width="879" height="585" alt="image" src="https://github.com/user-attachments/assets/18652944-ebf8-4ff5-b82f-148bb5f75d06" />
+
 ## Electonics 
+For the guitar wiring, I referenced this diagram from GuitarElectronics.com for a humbucker and single coil guitar with a single volume and 3 way toggle to make use of both pickups unlike the original frankenstrat with only the bridge pickup working.
+
+<img width="826" height="611" alt="image" src="https://github.com/user-attachments/assets/ab2b72c6-2c18-458e-b0d1-a476baa6529f" />
+
+<img width="882" height="367" alt="image" src="https://github.com/user-attachments/assets/08c63a9f-d52a-4d1a-83d8-67908d15afcb" />
+
+# Conclusion
+This is a guide and build log on how I built my own version of Eddie's Kramer Frankenstrat! This was my first guitar that I've built from scratch and a lot was learned in the build process. Now, I finally have a finished product that plays better than I could have ever imagined! 
+
+Hopefully this inspires you to create your own guitar, don't hesistate to contact me.
