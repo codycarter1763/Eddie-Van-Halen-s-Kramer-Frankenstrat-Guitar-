@@ -1,1 +1,5 @@
 # Eddie Van Halen's Kramer Frankenstrat Guitar 
+![IMG_3837](https://github.com/user-attachments/assets/30de440d-7e4a-4df6-b3be-ff3e4698c3c5)
+
+This is a guide and build log on how I built my own version of Eddie's Kramer Frankenstrat! This was my first guitar that I've built from scratch and a lot was learned in the build process. The final product ended up being such a killer axe with tons of playability! Growing up being an avid listener of Van Halen and being a big reason that I picked up guitar, I knew that if there was any guitar that I would try to build it would be Eddie Van Halen's Frankenstrat. My inspiration for it all was seeing Eddie’s Kramer 5150 in the [Van Halen Live Without a Net Eruption video]( https://youtu.be/mIpHZo7BsT8?si=noNRfv9UKynxgA3a). That guitar looked so unique and has a huge sound. Since I loved how the original Frankenstrat looked I decided to put the two together and create something different than all of the other builds I see online. So after long months of research and planning for the best parts, I finally have a finished product that plays better than I could have ever imagined!
+
